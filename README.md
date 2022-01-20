@@ -11,6 +11,9 @@ val split: 7 percent (156 Images) <br />
 Images in train set after Augmentation: 6249  <br />
 Images in val set: 156 <br />
 
+## Links
+Dataset: https://evp-ml-data.s3.us-east-2.amazonaws.com/ml-interview/openimages-personcar/trainval.tar.gz <br />
+Model: https://www.github.com/ultralytics/yolov5
 
 ## Model used
 ### **Yolov5**
