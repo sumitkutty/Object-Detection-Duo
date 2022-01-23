@@ -17,7 +17,7 @@ Model: https://www.github.com/ultralytics/yolov5
 
 ## Model used
 ### **Yolov5**
-* The model used for this use-case was yolov5 which is a SSD(single shot detector) algorithm that divides images into a grid system and the convolutional network is responsible for detectig objects in each cell.
+* The model used for this use-case was yolov5 which is a SSD(single shot detector) algorithm that divides images into a grid system and the convolutional network is responsible for detecting objects in each cell.
 * Yolo is a favourite choice in object detection because of its speed and accuracy.
 
 ## Analysis
